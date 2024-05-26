@@ -1,4 +1,5 @@
 added my addmision info
 I am undergraduate student at University Of rajshahi
 Added from feature2
+Fixed bug issue perfectly 
 
